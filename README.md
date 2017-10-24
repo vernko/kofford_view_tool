@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install kofford_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+KoffordViewTool::Renderer.copyright 'Vern Kofford', 'All rights reserved'
+```
 
 ## Development
 
